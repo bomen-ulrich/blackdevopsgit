@@ -1,2 +1,4 @@
 # blackdevopsgit
-This is a collaboration repo where leaners simulate real work experience by working on a Terraform project. They build the project step-by-step by progressively working on parts  as form of task/card while also practicing their Git knowledge
+This is a collaboration repo where leaners practice and consolidate their Git knowledge. 
+They work on a simple project with the end goal to be used with the Git Workflow.
+It is task/card based.
