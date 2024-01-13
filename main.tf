@@ -19,10 +19,5 @@ resource "aws_subnet" "subnet1" {
     availability_zone = var.az2a # var.dev_AZ1 # we specify the AZ where to create the subnet
     #availability_zone = data.aws_availability_zones.available.names[0]
     map_public_ip_on_launch = true
-  tags = {
-    Name = "ori public subnet 1"
-    environment = "dev"
-		project = "ori-wordpress-docker-ecr-ecs"
-		terraform = true
-  }   
+   
 }
